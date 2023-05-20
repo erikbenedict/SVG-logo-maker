@@ -34,6 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 Below is a demo of how this SVG logo maker works, and that it passes written tests through Jest. It's a simple process that will streamline your work flow!
 
+https://github.com/erikbenedict/SVG-logo-maker/assets/89614823/a7185c96-acd4-4a74-a782-2fe51f8ee387
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
